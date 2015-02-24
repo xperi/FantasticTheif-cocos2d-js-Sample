@@ -1,0 +1,25 @@
+{
+    "project_type":"javascript",
+    "debugMode":0,
+    "showFPS":false,
+    "frameRate":60,
+    "id":"gameCanvas",
+    "renderMode":0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules":[
+        "cocos2d"
+    ],
+    "jsList":[
+        "src/resource.js",
+        "src/game_main_layer.js",
+        "src/game_play_layer.js",
+        "src/game_end_layer.js",
+        "src/buckets.js",
+        "src/game_util.js",
+        "src/building.js",
+        "src/police.js",
+        "src/thief.js",
+        "src/cloud.js",
+        "src/globals.js"
+    ]
+}
